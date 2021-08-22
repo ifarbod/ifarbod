@@ -6,5 +6,5 @@
 - My most used languages are C++, Python, C#, and Java.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifarbod&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ifarbod&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave" />
 </p>
