@@ -9,9 +9,6 @@
 - My favorite programming languages - in order of preference - are **C++,** **Python**, Kotlin, Rust, Dart, C#, TypeScript and Java.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifarbod&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave" />
-</p>
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ifarbod.ifarbod" alt="visitor badge"/>
 </p>
 
